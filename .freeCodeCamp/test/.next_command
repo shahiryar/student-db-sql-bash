@@ -54,3 +54,4 @@ __vsc_prompt_cmd_original
 nano student_info.sh
 nano student_info.sh
 nano student_info.sh
+./student_info.sh
