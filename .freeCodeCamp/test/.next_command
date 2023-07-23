@@ -78,3 +78,6 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 clear
 nano student_info.sh
+clear
+clear
+./student_info.sh
